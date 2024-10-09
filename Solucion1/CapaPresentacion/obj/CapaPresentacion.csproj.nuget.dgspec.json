@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\CapaDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\CapaDatos.csproj",
+        "packagesPath": "C:\\Users\\AlexiR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlexiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj",
+        "projectName": "CapaEntidad",
+        "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj",
+        "packagesPath": "C:\\Users\\AlexiR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlexiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\CapaNegocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\CapaNegocios.csproj",
+        "projectName": "CapaNegocios",
+        "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\CapaNegocios.csproj",
+        "packagesPath": "C:\\Users\\AlexiR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlexiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaDatos\\CapaDatos.csproj"
+              },
+              "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\AlexiR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AlexiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj": {
+                "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaEntidad\\CapaEntidad.csproj"
+              },
+              "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\CapaNegocios.csproj": {
+                "projectPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaNegocios\\CapaNegocios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

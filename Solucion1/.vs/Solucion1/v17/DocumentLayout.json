@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0631AA55-E04E-414C-9A70-AD1677A67FE5}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\alexir\\source\\repos\\solucion1\\capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0631AA55-E04E-414C-9A70-AD1677A67FE5}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\frmCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCliente.cs",
+              "ToolTip": "C:\\Users\\AlexiR\\source\\repos\\Solucion1\\CapaPresentacion\\frmCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:13:10.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
